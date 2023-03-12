@@ -57,12 +57,12 @@
 <br> praticamente em todos os sistemas operacionais. Seu funcionamento consiste no envio de pacotes para o equipamento de destino
 <br> e na "escuta" das respostas.
 
-<h3> Ping Simples e Múltiplos <h3> 
-<br> Se for responsável por vários computadores em uma rede, a solução de problemas ou a confirmação de conectividade normalmente
+<h3> Ping Simples e Múltiplos </h3> 
+<br> Caso seja responsável por vários computadores em uma rede, a solução de problemas ou a confirmação de conectividade normalmente
 <br> começa com um ping simples. 
-<br> Porém, o ping pode ser para cada dispositivo como roteadores ou switches manualmente demorado. Por este motivo é mais conveniente
-<br> criar um arquivo de lote para executar ping em vários IPs de forma simultânea com a utilização das bibliotecas OS e Time conforme
-<br> desenvolvido em Python.
+<br> Porém, o ping pode ser para cada dispositivo (computadores, roteadores ou switches) demorado. Por este motivo é mais conveniente
+<br> criar um arquivo txt de lote para executar ping em vários IPs de forma simultânea com a utilização das bibliotecas OS e Time conforme
+<br> conhecimento adquirido no curos e desenvolvido em linguagem Python.
 
 <br> Fonte <br> 
 <br> Wikipedia
